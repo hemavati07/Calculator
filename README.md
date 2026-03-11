@@ -89,7 +89,7 @@ Step 5: Result = 10
 Add a screenshot of your calculator UI here.
 
 ```
-(calculator.png)
+![calculatr screenshot](calculator.png)
 ```
 
 ---
