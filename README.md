@@ -7,12 +7,6 @@ The calculator performs basic arithmetic operations and provides a modern, inter
 
 ---
 
-## 📸 Preview
-
-![Calculator Screenshot](calculator.png)
-
----
-
 ## 🌐 Live Demo
 
 You can deploy this project using **GitHub Pages**.
@@ -20,6 +14,13 @@ You can deploy this project using **GitHub Pages**.
 Example:
 
 (https://hemavati07.github.io/Calculator/)
+
+## 📸 Preview
+
+![Calculator Screenshot](calculator.png)
+
+---
+
 
 ---
 
