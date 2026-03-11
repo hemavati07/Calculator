@@ -96,9 +96,7 @@ You can deploy this project using **GitHub Pages**.
 
 Example:
 
-```
 (https://hemavati07.github.io/Calculator/)
-```
 
 ---
 
