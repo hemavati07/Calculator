@@ -86,11 +86,7 @@ Step 5: Result = 10
 
 ## 📸 Preview
 
-Add a screenshot of your calculator UI here.
-
-```
-![calculatr screenshot](calculator.png)
-```
+![Calculator Screenshot](calculator.png)
 
 ---
 
