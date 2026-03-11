@@ -97,7 +97,7 @@ You can deploy this project using **GitHub Pages**.
 Example:
 
 ```
-https://your-username.github.io/calculator
+(https://hemavati07.github.io/Calculator/)
 ```
 
 ---
